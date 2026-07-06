@@ -12,7 +12,7 @@
 	</parent>
 
 	<groupId>com.whyfi</groupId>
-	<artifactId>whyfi</artifactId>
+	<artifactId>whyfi-backend</artifactId>
 	<version>0.1.0</version>
 	<name>whyfi</name>
 	<description>WhyFi - a financial visualization, comparison, and education tool</description>
