@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WhyfiApplication {
+public class WhyFiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WhyfiApplication.class, args);
+		SpringApplication.run(WhyFiApplication.class, args);
 	}
-
 }
